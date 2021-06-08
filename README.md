@@ -8,7 +8,7 @@ https://www.ohmsha.co.jp/book/9784274215308/
 
 ## ツール
 
-* Python - 言わずと知れたプログラミング言語
+* Python - 言わずと知れたCライブラリインターフェース＆動く疑似プログラミング言語
 * Jupyter Notebook - インタラクティブなPython実行環境
 * Carnets - iPadで動くJupyter Notebookアプリ
 * Pythonライブラリ
